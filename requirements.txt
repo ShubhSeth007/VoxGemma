@@ -1,0 +1,10 @@
+pyautogui
+pyperclip
+Pillow
+SpeechRecognition
+gTTS
+pygame
+requests
+flask
+websocket-client
+uiautomation
